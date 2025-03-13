@@ -1,1 +1,1 @@
-# cards-game
+Simple card flipping game
